@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667387783760",
+    "project_id": "loginfirebase-aa62d",
+    "storage_bucket": "loginfirebase-aa62d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667387783760:android:f16d4308ea99b030dbbf55",
+        "android_client_info": {
+          "package_name": "anhtuan.app.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667387783760-1ulpujsi3bu5ht8ub0g7ia46gf9topja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN4WPkhedbi_y997uWuTGO91UrVZnsNKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667387783760-1ulpujsi3bu5ht8ub0g7ia46gf9topja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
